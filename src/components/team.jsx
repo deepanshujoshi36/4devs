@@ -1,8 +1,8 @@
 import "./css/team.css";
 import gaurav from "../assets/gaurav.jpeg";
 import sachin from "../assets/sachin.png";
-import krish from "../assets/krish.jpeg";
-import anand from "../assets/anand.png";
+import krish from "../assets/krish.jpg";
+import anand from "../assets/anand.jpg";
 function Team() {
   const members = [
     {

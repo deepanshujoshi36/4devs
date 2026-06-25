@@ -1,4 +1,4 @@
-import logo from "../assets/image.png";
+import logo from "../assets/logo.png";
 function Navbar() {
   return (
     <nav className="navbar">
