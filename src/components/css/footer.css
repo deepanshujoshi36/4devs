@@ -1,0 +1,19 @@
+.footer {
+  background:
+    radial-gradient(
+      circle at top center,
+      rgba(168, 85, 247, 0.08),
+      transparent 60%
+    ),
+    #0b0b17;
+
+  border-top: 1px solid rgba(168, 85, 247, 0.15);
+
+  padding: 22px 0;
+  text-align: center;
+}
+
+.footer p {
+  color: #a1a1aa;
+  font-size: 15px;
+}
