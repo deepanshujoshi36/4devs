@@ -56,7 +56,7 @@
 
 import { useState } from "react";
 import "./css/home.css";
-import teamImage from "../assets/team.jpg";
+import teamImage from "../assets/home.png";
 import Counter from "../extra/counter";
 
 function Home() {
